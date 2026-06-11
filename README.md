@@ -1,5 +1,7 @@
 # 🧩 Maze Generator
 
+<img width="1680" height="1050" alt="Screenshot 2026-06-11 at 3 50 50 PM" src="https://github.com/user-attachments/assets/a8f337a3-b199-4192-acef-4142bb61c232" />
+
 A procedural maze generator built with **p5.js** using a randomized **Depth-First Search (DFS)** algorithm with backtracking.
 
 🔗 **Demo:** [Run the Project](PASTE_YOUR_P5_LINK_HERE)
